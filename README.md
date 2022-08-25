@@ -22,3 +22,10 @@
 ### Tracing 
 
 * [eBPF :bee:](https://ebpf.io/)
+
+
+## Security
+
+### Dependency tracking :package:
+
+* [Syft](https://github.com/anchore/syft)
