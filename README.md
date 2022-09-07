@@ -7,6 +7,7 @@
 ### Rust
 
 * [Hgih assurance Rust](https://highassurance.rs/)
+* [RHAI scripting language for rust](https://github.com/rhaiscript)
 
 
 ### Java
