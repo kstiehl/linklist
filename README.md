@@ -8,7 +8,7 @@
 
 * [Hgih assurance Rust](https://highassurance.rs/)
 * [RHAI scripting language for rust](https://github.com/rhaiscript)
-
+* [Cargo Semver Check](https://github.com/obi1kenobi/cargo-semver-check)
 
 ### Java
 
