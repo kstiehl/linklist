@@ -42,3 +42,8 @@
 
 * [umoci](https://umo.ci/)
 * [skopeo](https://github.com/containers/skopeo)
+
+
+## Configurations Languages
+
+* [kcl 🗒️](https://www.kcl-lang.io/)
